@@ -11,7 +11,6 @@
 .button:focus {
   outline: none;
 }
-
 .button:hover,
 .button:active {
   background: #ac0e77;
